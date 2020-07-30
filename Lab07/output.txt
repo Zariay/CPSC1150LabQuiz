@@ -1,0 +1,130 @@
+Test Case 1: 
+5 10 7 8 4 3 5 
+5 3 4 8 7 10 5 
+3 4 5 5 7 8 10 
+3 occurs 1 times.
+4 occurs 1 times.
+5 occurs 2 times.
+7 occurs 1 times.
+8 occurs 1 times.
+10 occurs 1 times.
+3 4 5 3 5 7 8 
+Cannot insert!
+
+Test Case 2: 
+75 -103 54 246 -272 18 -4 -177 103 -306 -71 -94 373 17 -233 -218 187 391 356 385 -45 201 395 -91 -165 -236 349 137 -293 -273 75 269 -10 -276 -126 -257 324 142 -332 -306 -312 245 -92 -86 286 -219 315 -110 246 293 
+3 4 5 3 3 5 7 
+Cannot insert!
+293 246 -110 315 -219 286 -86 -92 245 -312 -306 -332 142 324 -257 -126 -276 -10 269 75 -273 -293 137 349 -236 -165 -91 395 201 -45 385 356 391 187 -218 -233 17 373 -94 -71 -306 103 -177 -4 18 -272 246 54 -103 75 
+-332 -312 -306 -306 -293 -276 -273 -272 -257 -236 -233 -219 -218 -177 -165 -126 -110 -103 -94 -92 -91 -86 -71 -45 -10 -4 17 18 54 75 75 103 137 142 187 201 245 246 246 269 286 293 315 324 349 356 373 385 391 395 
+-332 occurs 1 times.
+-312 occurs 1 times.
+-306 occurs 2 times.
+-293 occurs 1 times.
+-276 occurs 1 times.
+-273 occurs 1 times.
+-272 occurs 1 times.
+-257 occurs 1 times.
+-236 occurs 1 times.
+-233 occurs 1 times.
+-219 occurs 1 times.
+-218 occurs 1 times.
+-177 occurs 1 times.
+-165 occurs 1 times.
+-126 occurs 1 times.
+-110 occurs 1 times.
+-103 occurs 1 times.
+-94 occurs 1 times.
+-92 occurs 1 times.
+-91 occurs 1 times.
+-86 occurs 1 times.
+-71 occurs 1 times.
+-45 occurs 1 times.
+-10 occurs 1 times.
+-4 occurs 1 times.
+17 occurs 1 times.
+18 occurs 1 times.
+54 occurs 1 times.
+75 occurs 2 times.
+103 occurs 1 times.
+137 occurs 1 times.
+142 occurs 1 times.
+187 occurs 1 times.
+201 occurs 1 times.
+245 occurs 1 times.
+246 occurs 2 times.
+269 occurs 1 times.
+286 occurs 1 times.
+293 occurs 1 times.
+315 occurs 1 times.
+324 occurs 1 times.
+349 occurs 1 times.
+356 occurs 1 times.
+373 occurs 1 times.
+385 occurs 1 times.
+391 occurs 1 times.
+395 occurs 1 times.
+
+Test Case 3: 
+84 87 80 107 99 94 64 116 71 110 101 111 67 61 105 65 86 81 105 113 119 64 92 57 113 95 106 59 76 80 
+80 76 59 106 95 113 57 92 64 119 113 105 81 86 65 105 61 67 111 101 110 71 116 64 94 99 107 80 87 84 
+57 59 61 64 64 65 67 71 76 80 80 81 84 86 87 92 94 95 99 101 105 105 106 107 110 111 113 113 116 119 
+57 occurs 1 times.
+59 occurs 1 times.
+61 occurs 1 times.
+64 occurs 2 times.
+65 occurs 1 times.
+67 occurs 1 times.
+71 occurs 1 times.
+76 occurs 1 times.
+80 occurs 2 times.
+81 occurs 1 times.
+84 occurs 1 times.
+86 occurs 1 times.
+87 occurs 1 times.
+92 occurs 1 times.
+94 occurs 1 times.
+95 occurs 1 times.
+99 occurs 1 times.
+101 occurs 1 times.
+105 occurs 2 times.
+106 occurs 1 times.
+107 occurs 1 times.
+110 occurs 1 times.
+111 occurs 1 times.
+113 occurs 2 times.
+116 occurs 1 times.
+119 occurs 1 times.
+
+Test Case 4: 
+-62 -6 -43 -57 -41 -13 -68 -70 -115 -66 -68 -56 -75 -17 -115 -83 -39 -34 -108 -90 -51 -113 -57 -55 -98 -117 -83 -77 -27 -74 
+Cannot insert!
+Cannot insert!
+-74 -27 -77 -83 -117 -98 -55 -57 -113 -51 -90 -108 -34 -39 -83 -115 -17 -75 -56 -68 -66 -115 -70 -68 -13 -41 -57 -43 -6 -62 
+-117 -115 -115 -113 -108 -98 -90 -83 -83 -77 -75 -74 -70 -68 -68 -66 -62 -57 -57 -56 -55 -51 -43 -41 -39 -34 -27 -17 -13 -6 
+-117 occurs 1 times.
+-115 occurs 2 times.
+-113 occurs 1 times.
+-108 occurs 1 times.
+-98 occurs 1 times.
+-90 occurs 1 times.
+-83 occurs 2 times.
+-77 occurs 1 times.
+-75 occurs 1 times.
+-74 occurs 1 times.
+-70 occurs 1 times.
+-68 occurs 2 times.
+-66 occurs 1 times.
+-62 occurs 1 times.
+-57 occurs 2 times.
+-56 occurs 1 times.
+-55 occurs 1 times.
+-51 occurs 1 times.
+-43 occurs 1 times.
+-41 occurs 1 times.
+-39 occurs 1 times.
+-34 occurs 1 times.
+-27 occurs 1 times.
+-17 occurs 1 times.
+-13 occurs 1 times.
+-6 occurs 1 times.
